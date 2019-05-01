@@ -1,0 +1,10 @@
+# Default server configuration.
+host: 127.0.0.1
+#mongo_db: mongodb://localhost:27017/angel
+port: 3000
+postgres:
+  host: 10.0.0.5
+  database_name: dartlery_test
+  username: dartlery_test
+  password: 123456aB
+jwt_secret: "0zlwTcqTEnOGn9v53VB7xOibX4OJJouU"
